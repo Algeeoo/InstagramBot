@@ -36,4 +36,4 @@ with smart_run(session):
                                     min_following=50)
 
     #tags to get posts from and amout is the actions you want
-    session.like_by_tags(['love','instagram','cute','fashion','photooftheday','instagood','selfie','likeforlike','like4like'], amount=300)
+    session.like_by_tags(['artist','instagram','music','newmusic','afrobeats','afrobeatstotheworld','upcomingartis','sundaysermon','upcomingartists'], amount=300)
